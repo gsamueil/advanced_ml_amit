@@ -2,3 +2,4 @@
 ## contents
 - python
 - ds
+- machine learning(supervised- unsuppervised)
